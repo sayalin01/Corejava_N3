@@ -12,6 +12,7 @@ public class IfDemo {
 		int b = s.nextInt();
 		if(a==b) 
 		System.out.println("a is eqaul to b");
+	}
 
 	
 
