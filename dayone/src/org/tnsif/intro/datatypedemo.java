@@ -2,7 +2,8 @@ package org.tnsif.intro;
 
 public class datatypedemo {
 
-	public static void main(String[] args) {
+	public static void main(String[] args)
+	{
 		// TODO Auto-generated method stub
 		byte a =127;
 		int b =128;
