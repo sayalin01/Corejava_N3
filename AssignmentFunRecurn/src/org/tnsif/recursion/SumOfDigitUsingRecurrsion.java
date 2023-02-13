@@ -2,6 +2,7 @@ package org.tnsif.recursion;
 import java.util.Scanner;
 public class SumOfDigitUsingRecurrsion {
 	static int SumD(int n,int sum)
+	
 	{
 		
 		
@@ -28,7 +29,8 @@ public class SumOfDigitUsingRecurrsion {
 		int sum = 0;
 		
 		System.out.println("Sum of Digit is   :"+ SumD(n,sum));
-			
+		
+		
 		sc.close();
 	}
 
